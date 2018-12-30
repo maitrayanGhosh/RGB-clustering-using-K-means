@@ -2,10 +2,10 @@ import math
 
 #v=[[150,170,100],[5,10,60],[70,100,200],[200,215,240],[10,15,70],[180,175,160],[75,95,100],[140,100,110],[5,10,15],[15,20,45],[60,65,170],[150,160,180],[25,50,75],[170,180,190],[10,15,50],[80,90,100]]
 v=[]
-n=int(input("enter the number of elements"))
+#n=int(input("enter the number of elements"))
 
-for i in range(n):
-    v.append(list(map(int,input().rstrip().split())))
+#for i in range(n):
+#   v.append(list(map(int,input().rstrip().split())))
 from PIL import Image
 
 import numpy as np
